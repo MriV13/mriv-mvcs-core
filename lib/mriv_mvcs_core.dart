@@ -1,4 +1,4 @@
-library yao_core;
+library mriv_mvcs_core;
 
 export 'src/main.dart';
 export 'src/mvcs.dart';

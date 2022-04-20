@@ -15,7 +15,7 @@ Still in development. Not stable yet.
 ## Initialize
 
 ```
-import 'package:yao_core/yao_core.dart';
+import 'package:mriv_mvcs_core/mriv_mvcs_core.dart';
 
 final app = Yao();
 

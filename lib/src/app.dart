@@ -3,8 +3,8 @@ import 'dart:developer' as d;
 
 import 'package:flutter/material.dart' hide Route;
 import 'package:get/get.dart';
-import 'package:yao_core/src/main.dart';
-import 'package:yao_core/src/manager/event.dart';
+import 'package:mriv_mvcs_core/src/main.dart';
+import 'package:mriv_mvcs_core/src/manager/event.dart';
 import 'dialog.dart';
 import 'exception/noroute.dart';
 import 'manager/middleware.dart';

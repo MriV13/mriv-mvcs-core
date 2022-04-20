@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart' hide Route;
 import 'package:get/get.dart';
-import 'package:yao_core/src/mixin/request.dart';
+import 'package:mriv_mvcs_core/src/mixin/request.dart';
 
-import '../yao_core.dart';
+import '../mriv_mvcs_core.dart';
 import 'mixin/app.dart';
 import 'widget/error_retrier.dart';
 

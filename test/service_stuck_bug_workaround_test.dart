@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:flutter_test/flutter_test.dart';
-import 'package:yao_core/yao_core.dart';
+import 'package:mriv_mvcs_core/mriv_mvcs_core.dart';
 
 class MyService extends YaoService {
   int test() {

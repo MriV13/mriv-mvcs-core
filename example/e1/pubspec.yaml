@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  yao_core:
+  mriv_mvcs_core:
     path: ../../
 
 dev_dependencies:

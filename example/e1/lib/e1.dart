@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:yao_core/yao_core.dart';
+import 'package:mriv_mvcs_core/mriv_mvcs_core.dart';
 
 class TestRouteView extends YaoView<TestRouteController> {
   final String title;

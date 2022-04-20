@@ -1,0 +1,10 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "mvcs-core run",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
