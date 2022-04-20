@@ -1,4 +1,4 @@
-import 'package:yao_core/src/app.dart';
+import 'package:mriv_mvcs_core/src/app.dart';
 
 late final App _app;
 bool _initialized = false;

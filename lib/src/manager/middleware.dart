@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:yao_core/src/mixin/app.dart';
+import 'package:mriv_mvcs_core/src/mixin/app.dart';
 import '../env.dart';
 import '../mvcs.dart';
 import '../widget/empty_view.dart';
